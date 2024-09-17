@@ -1,0 +1,2 @@
+# A-NON-INVASIVE-GAIT-BASED-SCREENING-APPROACH-FOR-PARKINSON-S-DISEASE
+The early detection of Parkinson's Disease (PD) through gait analysis, addressing the limitations of traditional diagnostic methods, which are often subjective and inaccessible in remote areas. As the prevalence of PD increases with an aging population, there's an urgent need for more reliable and accessible diagnostic techniques.
